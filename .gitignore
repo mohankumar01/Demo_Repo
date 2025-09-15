@@ -12,3 +12,33 @@
 
 pkg/
 src/
+  .azure/
+        .bash_history
+        .gitconfig
+        .gnupg/
+        .lesshst
+        .viminfo
+        .vscode/
+        AppData/
+        Contacts/
+        Demo_Repo/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{eb1f8643-4931-11f0-a04a-acf23cedc250}.TM.blf
+        NTUSER.DAT{eb1f8643-4931-11f0-a04a-acf23cedc250}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{eb1f8643-4931-11f0-a04a-acf23cedc250}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        PyCharmMiscProject/
+        Saved Games/
+        Searches/
+        Videos/
+        git-diff-exercise/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
